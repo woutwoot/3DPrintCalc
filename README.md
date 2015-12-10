@@ -1,0 +1,1 @@
+This is a simple tool I wrote to calculate costs for 3D printing. It is based on http://www.thingiverse.com/thing:29310/
